@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielBienkiewicz
 - 👀 I’m interested in Cybersecurity, automation, coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java, then Python
 -
 - 📫 How to reach me - you will find a way
 
